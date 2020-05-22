@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "IHC_Prototype",
+"dataUrl": "IHC_Prototype_Web.data.unityweb",
+"asmCodeUrl": "IHC_Prototype_Web.asm.code.unityweb",
+"asmMemoryUrl": "IHC_Prototype_Web.asm.memory.unityweb",
+"asmFrameworkUrl": "IHC_Prototype_Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
